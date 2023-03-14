@@ -1,0 +1,14 @@
+{
+  "name": "7egend/challenge",
+  "license": "proprietary",
+  "repositories": [],
+  "require": {
+    "php": "^7.1.0",
+    "phalcon/incubator": "^3.0"
+  },
+  "require-dev": {
+    "phalcon/devtools": "~3.1",
+    "phalcon/ide-stubs": "^3.2.4",
+    "phpunit/phpunit": "~6.3"
+  }
+}
